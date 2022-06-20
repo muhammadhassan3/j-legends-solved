@@ -1,2 +1,2 @@
 # J-Legends
-Aplikasi Android J Legends Sebagai Proyek Akhir Aplikasi Android Sederhana Dicoding
+Fix Android Project from discussion
